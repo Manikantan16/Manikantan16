@@ -18,7 +18,7 @@ Passionate about turning data into actionable insights and creating impactful vi
 
 <h3 align="left">Skill Sets:</h3>
 
-- **Programming:**         Python (Numpy 🔢,Pandas 🐼,Matplotlib/Seaborn 📈,Scipy 🧪,ScikitLearn 🤖,Tkinter 🖥️,BeautifulSoup 🍲,Requests 🌐).
+- **Programming:**  Python (Numpy 🔢,Pandas 🐼,Matplotlib/Seaborn 📈,Scipy 🧪,ScikitLearn 🤖,Tkinter 🖥️,BeautifulSoup 🍲,Requests 🌐).
 - **Database:**            MSSQLServer 🗄️, MySql 🐬.
 - **Visualization Tools:** Tableau 📊,Power BI 📉.
 - **Other Languages:**     C# #️⃣, Vb.Net 🔵, Vb6.0 🏗️
