@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Manikantan</h2>
 
 ### Glad to see you here!  
-I'm an insightful and solutions-oriented Data analyst cum Senior.Net Programmer with 7+ years of experience turning complex data into actionable insights. I'm passionate about using data to drive business strategy and identify opportunities for growth and improvement.
+I'm a results-driven Data Analyst and Senior .NET Programmer, skilled at transforming complex data into actionable insights. I’m passionate about leveraging data to influence business strategy and uncover opportunities for growth and improvement.
 
-I specialize in gathering, cleaning, and analyzing large datasets using tools like SQL, Python, Excel, and various BI platforms viz tableau,Power Bi. I'm skilled at interpreting the business requirements and translating them into targeted analytical projects. I thrive on tackling complex quantitative analyses, particularly when it comes to extracting valuable insights from messy, real-world data. 
+I specialize in collecting, cleaning, and analyzing large datasets using tools such as SQL, Python, Excel, and various BI platforms like Tableau and Power BI. I'm proficient at understanding business needs and transforming them into focused analytical projects. I excel in tackling complex quantitative analyses, especially when extracting valuable insights from messy, real-world data.
 <br/> 
 
 🎓 Bachelors of Engineering | 📊 Aspiring Data Analyst | 💻 Lifelong Learner
