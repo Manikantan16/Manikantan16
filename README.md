@@ -1,22 +1,21 @@
 <h2 align="center">Hi 👋, I'm Manikantan</h2>
-
-### Glad to see you here!  
-I'm a results-driven Data Analyst and Senior .NET Programmer, skilled at transforming complex data into actionable insights. I’m passionate about leveraging data to influence business strategy and uncover opportunities for growth and improvement.
-
-I specialize in collecting, cleaning, and analyzing large datasets using tools such as SQL, Python, Excel, and various BI platforms like Tableau and Power BI. I'm proficient at understanding business needs and transforming them into focused analytical projects. I excel in tackling complex quantitative analyses, especially when extracting valuable insights from messy, real-world data.
-<br/> 
-
 🎓 Bachelors of Engineering | 📊 Aspiring Data Analyst | 💻 Lifelong Learner
 
-Passionate about turning data into actionable insights and creating impactful visualizations. Exploring the intersection of data and creativity one project at a time!
+### About Me  
+I am a results-driven **Data Analyst and Senior .NET Programmer** with a strong ability to transform complex data into actionable insights. My passion lies in leveraging data to influence business strategies and uncover opportunities for growth and improvement.
 
-### About Me
+With expertise in **data collection, cleaning, and analysis,** I utilize tools like **SQL, Python, Excel,** and **business intelligence platforms** such as **Tableau and Power BI** to turn raw data into meaningful insights. I thrive on understanding business needs and transforming them into focused analytical projects. I excel in tackling complex quantitative analyses, especially when it comes to extracting valuable insights from messy, real-world data.
+
+I’m passionate about turning data into impactful visualizations and actionable insights, and I enjoy exploring the intersection of data and creativity with each project I take on.
+<br/> 
+
+### Skills
 - 🔍 I’m in to Data Analytics using Python, Power BI, Tableau, Excel and SQL.
 - 📈 I love working on projects that involve data cleaning, visualization, and analysis.
 - 🌟 I believe in continuous learning and enjoy sharing my journey on LinkedIn.
 - 🎯 My goal is to contribute to impactful data-driven projects.
 
-<h3 align="left">Skill Sets:</h3>
+<h3 align="left">Technical Proficiency:</h3>
 
 - **Programming:** Python (Numpy 🔢,Pandas 🐼,Matplotlib/Seaborn 📈,Scipy 🧪,ScikitLearn 🤖,Tkinter 🖥️,BeautifulSoup 🍲,Requests 🌐)
   
