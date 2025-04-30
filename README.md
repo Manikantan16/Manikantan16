@@ -2,7 +2,7 @@
 🎓 Bachelors of Engineering | 📊 Aspiring Data Analyst | 💻 Lifelong Learner
 
 ### About Me:  
-I am a results-driven **Data Analyst and Senior .NET Programmer** with a strong ability to transform complex data into actionable insights. My passion lies in leveraging data to influence business strategies and uncover opportunities for growth and improvement.
+I am a result-driven **Data Analyst and Senior .NET Programmer** with a strong ability to transform complex data into actionable insights. My passion lies in leveraging data to influence business strategies and uncover opportunities for growth and improvement.
 
 With expertise in **data collection, cleaning, and analysis,** I utilize tools like **SQL, Python, Excel,** and **Business Intelligence Platforms** such as **Tableau and Power BI** to turn raw data into meaningful insights. I thrive on understanding business needs and transforming them into focused analytical projects. I excel in tackling complex quantitative analyses, especially when it comes to extracting valuable insights from messy, real-world data.
 
